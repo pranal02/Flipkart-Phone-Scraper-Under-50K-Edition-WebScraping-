@@ -13,10 +13,10 @@ Pandas: To store and organize the extracted data.
 Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/flipkart-phone-scraper.git
+git clone https://github.com/pranal02/Flipkart-Phone-Scraper-Under-50K-Edition-WebScraping-.git
 Navigate to the project directory:
 
-cd flipkart-phone-scraper
+cd Flipkart-Phone-Scraper-Under-50K-Edition-WebScraping-
 Install the required Python libraries using pip:
 
-pip install requests beautifulsoup4 lxml pandas
+pip install requests beautifulsoup4  pandas
