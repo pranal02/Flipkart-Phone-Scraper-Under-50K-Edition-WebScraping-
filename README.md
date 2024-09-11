@@ -30,6 +30,7 @@ git clone https://github.com/pranal02/Flipkart-Phone-Scraper-Under-50K-Edition-W
 Navigate to the project directory:
 
 cd Flipkart-Phone-Scraper-Under-50K-Edition-WebScraping-
+
 Install the required Python libraries using pip:
 
 pip install 
