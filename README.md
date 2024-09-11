@@ -1,4 +1,4 @@
-# Flipkart-Phone-Scraper-Under-50K-Edition-WebScraping
+# Phone-Scraper-Under-50K-Edition-WebScraping
 This project performs web scraping on Flipkart to extract data about mobile phones priced under ₹50,000. The extracted data includes the phone's name, price, and description, which are saved into a CSV file for further analysis.
 
 Features
